@@ -1,0 +1,1 @@
+Hash SHA256 di "Accettare Bitcoin v1.0" a7f94bd214630485076a1c9f69aa764b7077f65c56f1311f665fa7552bf260f0
